@@ -1,3 +1,3 @@
 print("Hello world")
 print("Translate")
-print("Hello ther")
+print("This is the real life")
